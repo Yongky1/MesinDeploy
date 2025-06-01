@@ -49,3 +49,6 @@ Aplikasi ini menggunakan model deep learning untuk mengklasifikasikan wajah sele
   - VGG16
   - InceptionV3
   - MobileNetV2 
+
+## collab yang digunakan
+-https://colab.research.google.com/drive/1_jRfhLLy6cd2n6lnHH5cJIZFSkQR9hfi
