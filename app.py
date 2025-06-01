@@ -148,7 +148,7 @@ if uploaded_file is not None:
     try:
         # Tampilkan gambar yang diupload
         image = Image.open(uploaded_file)
-        st.image(image, caption="Gambar yang diupload", use_column_width=True)
+        st.image(image, caption="Gambar yang diupload", use_container_width=True)
         
         # Tombol prediksi
         if st.button("Prediksi"):
