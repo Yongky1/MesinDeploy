@@ -52,3 +52,6 @@ Aplikasi ini menggunakan model deep learning untuk mengklasifikasikan wajah sele
 
 ## collab yang digunakan
 -https://colab.research.google.com/drive/1_jRfhLLy6cd2n6lnHH5cJIZFSkQR9hfi
+
+##
+link deploy : https://mesindeploy-aprvvtb3hc9evmeajaxdr3.streamlit.app/
