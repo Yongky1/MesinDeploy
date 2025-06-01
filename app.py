@@ -134,10 +134,6 @@ def predict_celebrity(model, image):
 st.title("🎭 Klasifikasi Wajah Selebriti")
 st.markdown("Upload foto wajah selebriti untuk mengidentifikasi siapa mereka!")
 
-# Tampilkan versi TensorFlow
-st.sidebar.info(f"TensorFlow version: {tf.__version__}")
-st.sidebar.info(f"Keras version: {keras.__version__}")
-
 # Pemilihan model
 selected_model = st.selectbox(
     "Pilih Model Klasifikasi:",
